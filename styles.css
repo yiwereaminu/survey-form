@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background-color:wheat;
+  }
+  #survey-form{
+   background-color: rgb(46, 7, 82);
+   color:antiquewhite;
+  display: block;
+  font-family: helvetica;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: cneter;
+ }
+
+ 
